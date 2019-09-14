@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+“我慢慢明白了我为什么不快乐，因为我总是期待一个结果。
+看一本书期待它让我变深刻，
+吃饭游泳期待它让我一斤斤瘦下来，
+发一条短信期待它被回复，
+对人好期待它回应也好，
+写一个故事说一个心情期待它被关注被安慰，
+参加一个活动期待换来充实丰富的经历。
+这些预设的期待如果实现了，长舒一口气。
+如果没实现昵？自怨自艾。
+可是小时候也是同一个我，用一个下午的时间看蚂蚁搬家，等石头开花，
+小时候不期待结果，小时候哭笑都不打折。”                      
 
-You can use the [editor on GitHub](https://github.com/MXKwomendeai/MXKwomendeai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MXKwomendeai/MXKwomendeai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+一一一马德《允许自己虚度时光》
